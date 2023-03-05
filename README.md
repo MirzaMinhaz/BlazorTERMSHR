@@ -1,0 +1,2 @@
+# BlazorTERMSHR
+For testing purposes
